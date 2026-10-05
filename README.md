@@ -1,4 +1,4 @@
-# Cities REST API if you wish to test it in POSTMAN TESTED or simply refer my World Tour Site (fake email and password get it from repo) 
+# Cities REST API if you wish to test it in POSTMAN or simply refer my World Tour Site (fake email and password get it from repo) 
 
 ## PLEASE TEST API IN POSTMAN using this URL and add the below mention City and User route for testing as per requirement 
 
