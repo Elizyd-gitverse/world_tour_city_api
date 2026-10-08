@@ -10,7 +10,7 @@ const cors = require('cors')
 app.set("trust proxy", 1) //Your request reaches onRender through that proxy, so Express needs to trust the proxy
 
 app.use(cors({ //all node and react to connect
-    origin: "https://worldtour-zyd.netlify.app", // here react site link for react connect
+    origin: ["http://localhost:5173", "https://worldtour-zyd.netlify.app"], // here react site link for react connect
     credentials: true //for authentication
 }))
 
